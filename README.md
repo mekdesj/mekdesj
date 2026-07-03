@@ -58,9 +58,19 @@
 
 <div align="center">
 
-![Mekdes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekdesj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Mekdes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekdesj&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekdesj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekdesj&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mekdesj&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -139,16 +149,6 @@
 
 ### I believe in:
 ✨ **Continuous Learning** | 🤝 **Collaboration** | 🚀 **Building Impact** | 💪 **Growth Mindset**
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mekdesj&theme=tokyo-night)
 
 </div>
 
