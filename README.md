@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Mekdes Merga 👋
+
 
 Software Engineering Student · Full-Stack & Mobile Developer · Data Enthusiast
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91d3BybDY5YmFtOThxYjNodm4ybzd5OHRlamhqNW9mOGJ3cTdndCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-
+# Hi, I'm Mekdes Merga 👋
 </div>
 
 ## About Me
