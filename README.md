@@ -58,19 +58,9 @@
 
 <div align="center">
 
-![Mekdes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekdesj&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekdesj&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mekdesj&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+**Repository Count:** 33+ repositories  
+**Most Used Language:** Java, JavaScript, Python, C++  
+**Learning Focus:** Full-Stack Development, Mobile Apps, Data Science
 
 </div>
 
@@ -151,6 +141,16 @@
 ✨ **Continuous Learning** | 🤝 **Collaboration** | 🚀 **Building Impact** | 💪 **Growth Mindset**
 
 </div>
+
+---
+
+## 📈 My Journey
+
+- Started learning web development with HTML, CSS, JavaScript
+- Expanded to backend with Java & Spring Boot
+- Ventured into mobile development with Flutter & Dart
+- Exploring data science with Python, Pandas & Jupyter
+- Actively contributing to open source projects
 
 ---
 
