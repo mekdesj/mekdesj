@@ -1,6 +1,6 @@
 <div align="center">
 
-
+# Hi, I'm Mekdes Merga 👋
 
 Software Engineering Student · Full-Stack & Mobile Developer · Data Enthusiast
 
