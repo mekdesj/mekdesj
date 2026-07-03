@@ -54,18 +54,6 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-**Repository Count:** 33+ repositories  
-**Most Used Language:** Java, JavaScript, Python, C++  
-**Learning Focus:** Full-Stack Development, Mobile Apps, Data Science
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
