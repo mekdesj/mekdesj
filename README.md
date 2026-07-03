@@ -2,11 +2,15 @@
 
 <div align="center">
 
+![Cute Programmer](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
 # Hi, I'm **Mekdes Merga** 🚀✨
   
 ## **Software Engineering Student** | **Full-Stack Developer** | **Mobile Developer** | **Data Enthusiast**
 
 ### ` > Building the Future One Line of Code at a Time...` 🎯
+
+![Coding Girl](https://media.giphy.com/media/qgQUggAC3Pfv687atE/giphy.gif)
 
 ---
 
@@ -33,6 +37,8 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
+
+![Funny Coding](https://media.giphy.com/media/IdyAQJVN2kVPwWDxtn/giphy.gif)
 
 ### ⚡ **My Superpowers** ⚡
 
@@ -81,6 +87,8 @@
 
 <div align="center">
 
+![Developer Celebration](https://media.giphy.com/media/g9GUjSDZa8yeVPT6oo/giphy.gif)
+
 ### 💼 **Enterprise Projects** 💼
 
 </div>
@@ -107,6 +115,8 @@
 
 ### 📊 **Data Science & Analytics** 📊
 
+![Data Analysis Fun](https://media.giphy.com/media/3o7TKU8VIZh0A8z9N2/giphy.gif)
+
 </div>
 
 | Project | Description | Tech Stack |
@@ -131,6 +141,8 @@
 
 <div align="center">
 
+![Typing Code](https://media.giphy.com/media/JIX9RbnIHcVAI/giphy.gif)
+
 🚀 **Active Projects & Learning**
 
 </div>
@@ -146,6 +158,8 @@
 ## 🌐 Let's Connect! 🌐
 
 <div align="center">
+
+![Girl Programmer](https://media.giphy.com/media/SvckXJ9pT86fuIbRLW/giphy.gif)
 
 ### 📬 **Reach Out To Me**
 
@@ -193,6 +207,8 @@
 ## 🎁 Fun Facts About Me
 
 <div align="center">
+
+![Happy Coder](https://media.giphy.com/media/l0HlNaQ9hWize2rnW/giphy.gif)
 
 - 🎮 I debug code like I play video games - with persistence! 
 - ☕ Coffee & code = my favorite combination
